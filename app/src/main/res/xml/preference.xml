@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferences xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="username_key"
+        android:title="Username"
+        android:summary="Enter your name" />
+
+    <EditTextPreference
+        android:key="email_key"
+        android:title="Email"
+        android:summary="Enter your email" />
+
+</preferences>
